@@ -4,3 +4,5 @@ way to import the data for all my projects.
 Covid_19 Dataset.csv - https://www.kaggle.com/datasets/imdevskp/corona-virus-report 
 
 airlines_flights_data.csv - https://www.kaggle.com/datasets/rohitgrewal/airlines-flights-data
+
+Coffee_Sales.csv - https://www.kaggle.com/datasets/navjotkaushal/coffee-sales-dataset
